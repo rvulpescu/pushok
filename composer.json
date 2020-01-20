@@ -48,7 +48,8 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.1.x-dev"
+            "dev-master": "0.1.x-dev",
+            "dev-web-tokens-1": "web-tokens-1"
         }
     },
     "minimum-stability": "dev",
